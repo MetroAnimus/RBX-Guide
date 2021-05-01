@@ -1,6 +1,6 @@
 <br />
     <p>
-    <a href="https"://sites.google.com/view/rbxdevs><img src="https://cdn.discordapp.com/attachments/768394610548146189/810778835771064320/20210215_1027232.png" alt="RBX-Guide" /></a>
+ 
   </p
    # RBX Guide
 
