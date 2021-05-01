@@ -26,9 +26,8 @@ prefix: "PREFIX"
 bot.onMessage()
 ```
 
-##Creating Commands
-
-``
+## Creating Commands
+```
 bot.comamnd({ 
 name: "command anme",
 code: `your code`
@@ -36,7 +35,6 @@ code: `your code`
 ```
 
 
-#Discord.js
-
+# Discord.Js
 
 Discord.js Isnt Avaliable For RBX Guide ERROR CODE: qirndj333
